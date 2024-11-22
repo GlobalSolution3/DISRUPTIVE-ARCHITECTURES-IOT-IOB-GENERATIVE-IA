@@ -14,6 +14,8 @@
 
 #### REPOSITÓRIO: https://github.com/GlobalSolution3/DISRUPTIVE-ARCHITECTURES-IOT-IOB-GENERATIVE-IA/tree/main 
 
+#### DATASET: https://app.roboflow.com/workspace-sfj9d/postes-urbanos/1
+
 
 ## RESUMO 
 
